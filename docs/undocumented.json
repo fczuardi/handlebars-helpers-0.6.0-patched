@@ -1,0 +1,20 @@
+{
+  "docsDifference": [
+    "'typeof'",
+    "count",
+    "css",
+    "decodeURI",
+    "ellipsis",
+    "encodeURI",
+    "i18n",
+    "js",
+    "plusify",
+    "random",
+    "replace",
+    "safeString",
+    "startsWith",
+    "stripQuerystring",
+    "urlparse",
+    "urlresolve"
+  ]
+}
